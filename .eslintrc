@@ -1,0 +1,12 @@
+{
+    "env": {
+        "node": true
+    },
+    "globals": {
+    },
+    "rules": {
+        "quotes": 0,
+        "no-underscore-dangle": 0,
+		"eqeqeq": 0
+    }
+}

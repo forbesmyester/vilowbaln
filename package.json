@@ -1,0 +1,30 @@
+{
+  "name": "vilowbaln",
+  "version": "0.9.0",
+  "description": "A Visial Load Balancer (for debugging)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:forbesmyester/vilowbaln.git"
+  },
+  "keywords": [
+    "microservices",
+    "mock",
+    "loadbalancer"
+  ],
+  "author": "Matthew Forrester <matt@keyboardwritescode.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forbesmyester/vilowbaln/issues"
+  },
+  "homepage": "https://github.com/forbesmyester/vilowbaln",
+  "dependencies": {
+    "eslint": "^0.13.0",
+    "expect.js": "^0.3.1",
+    "mocha": "^2.1.0",
+    "ramda": "^0.9.1"
+  }
+}
