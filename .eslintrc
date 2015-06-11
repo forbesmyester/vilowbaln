@@ -3,10 +3,12 @@
         "node": true
     },
     "globals": {
+        "React": false,
+        "document": false
     },
     "rules": {
         "quotes": 0,
         "no-underscore-dangle": 0,
-		"eqeqeq": 0
+        "eqeqeq": 0
     }
 }
